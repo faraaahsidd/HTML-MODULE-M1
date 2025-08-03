@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Table</title>
+</head>
+<body>
+<table border="1">
+	<tr>
+		<th>Sr. no.</th>
+	
+		<th>Name</th>
+	
+		<th>Subject</th>
+	</tr>
+	<tr>
+		<td>1</td>
+	
+		<td>Farah</td>
+	
+		<td>maths</td>
+	</tr>
+	<tr>
+		<td>2</td>
+	
+		<td>Tooba</td>
+	
+		<td>commerce</td>
+	</tr>
+	<tr>
+		<td>3</td>
+	
+		<td>Zinia</td>
+	
+		<td>english</td>
+	</tr>
+	<tr>
+		<td>4</td>
+	
+		<td>Aish</td>
+	
+		<td>sci</td>
+	</tr>
+</table>
+</body>
+</html>
