@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+ There are 3 list tags <br>
+ one is ordered list<br>
+ second is unrdered list<br>
+ third is description list <br>
+ <strong>Here is an example of the ordered list<br></strong>
+ <ol>
+ 	<li>list point one</li>
+ 	<li>list point two</li>
+ 	<li>list point three</li>
+ </ol>
+
+</body>
+</html>
