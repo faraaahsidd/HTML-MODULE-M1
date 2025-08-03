@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+This content will be visible on the web page, s it is written in the body and also because it is not a comment
+<!-- This content will not be visible on the screen as this is written in the comment format, although it is written in the body it wont matter-->
+</body>
+</html>
