@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Try Formatting</title>
+</head>
+<body>
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text </b><br>
+<strong> - Important text </strong><br>
+<i> - Italic text </i><br>
+<em> - Emphasized text</em><br>
+<mark> - Marked text</mark><br>
+<small> - Smaller text</small><br>
+<del> - Deleted text</del><br>
+<ins> - Inserted text</ins><br>
+<sub> - Subscript text</sub><br>
+<sup> - Superscript text</sup><br>
+</body>
+</html>
