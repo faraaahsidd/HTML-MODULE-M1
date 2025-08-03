@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<h1>This is the first heading that is why its the boldest one</h1>
+<h2>This is the second heading that is why its comparetively smaller than the first one</h2>
+<h3>This is the Third heading that is why its comparetively smaller than the second one</h3>
+<h4>This is the forth heading that is why its comparetively smaller than the third one</h4>
+<h5>This is the fifth heading that is why its comparetively smaller than the forth one</h5>
+<h6>This is the last heading tag and that is why its the smallest one of all</h6>
+<p>The HTML element defines a paragraph. A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph. You cannot be sure how HTML will be displayed. Large or small screens, and resized windows will create different results</p>
+</body>
+</html>
