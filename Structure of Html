@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Structure of html</title>
+</head>
+<body>
+This is the body of the html where the contents which will be visible on the webpage
+</body>
+</html>
