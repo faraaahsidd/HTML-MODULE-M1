@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Introduction</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f8fc;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      background-color: #0077b6;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      margin: 30px 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #888;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>My Introduction</h1>
+  </header>
+
+  <section>
+    <h2>Hello! 👋</h2>
+    <p>My name is <strong>Farah Siddiqui</strong>. I am currently pursuing a <strong>Bachelor of Computer Applications (BCA)</strong>. I am passionate about <em>technology, web development, and creative digital projects</em>.</p>
+  </section>
+
+  <section>
+    <h2>My Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Basic Python Programming</li>
+      <li>Teaching</li>
+      <li>Social Media Management</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>My Goals</h2>
+    <p>I aim to become a full-stack web developer and contribute to meaningful digital products. I also want to explore entrepreneurship in the field of fashion and e-commerce.</p>
+  </section>
+
+  <footer>
+    <p>Thank you for visiting my page! 🌟</p>
+  </footer>
+
+</body>
+</html>
