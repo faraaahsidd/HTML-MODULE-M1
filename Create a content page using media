@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Content Page</title>
+</head>
+<body>
+
+  <h1>My Media Content Page</h1>
+  <p>This page demonstrates the use of different media elements in HTML.</p>
+
+  <hr>
+
+  <!-- Image Section -->
+  <h2>Image Gallery</h2>
+  <img src="https://via.placeholder.com/200" alt="Sample Image 1">
+  <img src="https://via.placeholder.com/200/ff7f7f" alt="Sample Image 2">
+  <img src="https://via.placeholder.com/200/87ceeb" alt="Sample Image 3">
+
+  <hr>
+
+  <!-- Audio Section -->
+  <h2>Audio Example</h2>
+  <p>Listen to this sample audio:</p>
+  <audio controls>
+    <source src="sample.mp3" type="audio/mpeg">
+    Your browser does not support audio.
+  </audio>
+
+  <hr>
+
+  <!-- Video Section -->
+  <h2>Video Example</h2>
+  <p>Watch this sample video:</p>
+  <video width="400" controls>
+    <source src="sample.mp4" type="video/mp4">
+    Your browser does not support video.
+  </video>
+
+  <hr>
+
+  <!-- Embedded Content -->
+  <h2>Embedded YouTube Video</h2>
+  <iframe width="400" height="250" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+          title="YouTube video" frameborder="0" allowfullscreen>
+  </iframe>
+
+</body>
+</html>
