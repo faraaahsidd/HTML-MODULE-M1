@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All HTML Tags Example</title>
+</head>
+<body>
+
+  <!-- Headings -->
+  <h1>Main Heading (h1)</h1>
+  <h2>Sub Heading (h2)</h2>
+  <h3>Section Heading (h3)</h3>
+  <h4>Smaller Heading (h4)</h4>
+  <h5>Tiny Heading (h5)</h5>
+  <h6>Smallest Heading (h6)</h6>
+
+  <!-- Paragraph and Formatting -->
+  <p>This is a <b>bold</b>, <i>italic</i>, <u>underlined</u>, and <mark>highlighted</mark> text. 
+  Here’s <sup>superscript</sup> and <sub>subscript</sub>.</p>
+  <p><strong>Strong</strong> and <em>emphasis</em> tags are also used.</p>
+
+  <!-- Horizontal Rule and Line Break -->
+  <hr>
+  Line 1 <br> Line 2 (using &lt;br&gt;)
+
+  <!-- Links -->
+  <p>Visit <a href="https://www.google.com" target="_blank">Google</a>.</p>
+
+  <!-- Image -->
+  <img src="https://via.placeholder.com/150" alt="Sample Image">
+
+  <!-- Lists -->
+  <h3>Lists</h3>
+  <ul>
+    <li>Unordered list item 1</li>
+    <li>Unordered list item 2</li>
+  </ul>
+  <ol>
+    <li>Ordered list item 1</li>
+    <li>Ordered list item 2</li>
+  </ol>
+  <dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language</dd>
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+  </dl>
+
+  <!-- Table -->
+  <h3>Table</h3>
+  <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Alice</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>25</td>
+    </tr>
+  </table>
+
+  <!-- Form -->
+  <h3>Form Example</h3>
+  <form>
+    <fieldset>
+      <legend>Personal Info</legend>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name"><br><br>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email"><br><br>
+
+      <label for="gender">Gender:</label>
+      <input type="radio" name="gender" value="male"> Male
+      <input type="radio" name="gender" value="female"> Female<br><br>
+
+      <label for="hobby">Hobbies:</label>
+      <input type="checkbox" name="hobby" value="reading"> Reading
+      <input type="checkbox" name="hobby" value="travel"> Travel<br><br>
+
+      <label for="city">Select City:</label>
+      <select id="city" name="city">
+        <option value="">--Select--</option>
+        <option value="lucknow">Lucknow</option>
+        <option value="delhi">Delhi</option>
+      </select><br><br>
+
+      <input type="submit" value="Submit">
+      <input type="reset" value="Reset">
+    </fieldset>
+  </form>
+
+  <!-- Multimedia -->
+  <h3>Audio and Video</h3>
+  <audio controls>
+    <source src="sample.mp3" type="audio/mpeg">
+    Your browser does not support audio.
+  </audio>
+  <br>
+  <video width="320" height="240" controls>
+    <source src="sample.mp4" type="video/mp4">
+    Your browser does not support video.
+  </video>
+
+  <!-- Other tags -->
+  <h3>Other Tags</h3>
+  <p><code>("Hello World");</code> (Code tag)</p>
+  <blockquote>This is a blockquote example.</blockquote>
+  <q>This is an inline quotation.</q>
+  <address>
+    Written by John Doe<br>
+    Visit us at: example.com<br>
+    City: Lucknow
+  </address>
+
+</body>
+</html>
