@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<body>
+  <form>
+<label for="city">Choose your city:</label>
+<select id="city" name="city">
+  <option value="">--Select--</option>
+  <option value="lucknow">Lucknow</option>
+  <option value="delhi">Delhi</option>
+  <option value="mumbai">Mumbai</option>
+  <option value="kolkata">Kolkata</option>
+  <option value="chennai">Chennai</option>
+</select>
+</form>
+</body>
+</html>
