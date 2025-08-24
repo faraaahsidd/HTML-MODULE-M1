@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal Details Form</title>
+</head>
+<body>
+
+  <h2>Personal Details Form</h2>
+  <form action="#" method="post" enctype="multipart/form-data">
+
+    <fieldset>
+      <legend>Basic Information</legend>
+
+      <label for="fullname">Full Name:</label><br>
+      <input type="text" id="fullname" name="fullname" required><br><br>
+
+      <label for="dob">Date of Birth:</label><br>
+      <input type="date" id="dob" name="dob" required><br><br>
+
+      <label for="gender">Gender:</label><br>
+      <select id="gender" name="gender" required>
+        <option value="">--Select--</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+      </select><br><br>
+    </fieldset>
+
+    <fieldset>
+      <legend>Contact Details</legend>
+
+      <label for="email">Email Address:</label><br>
+      <input type="email" id="email" name="email" required><br><br>
+
+      <label for="phone">Phone Number:</label><br>
+      <input type="tel" id="phone" name="phone" required><br><br>
+
+      <label for="address">Address:</label><br>
+      <textarea id="address" name="address" rows="3"></textarea><br><br>
+    </fieldset>
+
+    <fieldset>
+      <legend>Other Information</legend>
+
+      <label for="photo">Upload Photo:</label><br>
+      <input type="file" id="photo" name="photo" accept="image/*"><br><br>
+    </fieldset>
+
+    <input type="submit" value="Submit">
+
+  </form>
+
+</body>
+</html>
